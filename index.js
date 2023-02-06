@@ -66,8 +66,8 @@ function findingBadData(badData) {
    }
 
 const dataInfo = [-4, -9, -5, -33, -55];
-const result = findingBadData(dataInfo)
-console.log(result);
+const result2 = findingBadData(dataInfo)
+console.log(result2);
 
 //5. তোমাকে একটা function দেওয়া হবে called gemsToDiamond()”. এটা ইনপুট হিসেবে তিনটা number ( তোমাদের ৩ বন্ধুর gems এর সংখ্যা ) নিবে।
 
